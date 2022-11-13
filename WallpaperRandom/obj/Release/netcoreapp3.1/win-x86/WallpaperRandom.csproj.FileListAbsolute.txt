@@ -1,0 +1,16 @@
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\win-x86\WallpaperRandom.exe
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\win-x86\WallpaperRandom.deps.json
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\win-x86\WallpaperRandom.runtimeconfig.json
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\win-x86\WallpaperRandom.runtimeconfig.dev.json
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\win-x86\WallpaperRandom.dll
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\win-x86\WallpaperRandom.pdb
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\win-x86\Microsoft.Win32.Registry.dll
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\win-x86\System.Security.AccessControl.dll
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\win-x86\System.Security.Principal.Windows.dll
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\obj\Release\netcoreapp3.1\win-x86\WallpaperRandom.AssemblyInfoInputs.cache
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\obj\Release\netcoreapp3.1\win-x86\WallpaperRandom.AssemblyInfo.cs
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\obj\Release\netcoreapp3.1\win-x86\WallpaperRandom.csproj.CoreCompileInputs.cache
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\obj\Release\netcoreapp3.1\win-x86\WallpaperRandom.csproj.CopyComplete
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\obj\Release\netcoreapp3.1\win-x86\WallpaperRandom.dll
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\obj\Release\netcoreapp3.1\win-x86\WallpaperRandom.pdb
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\obj\Release\netcoreapp3.1\win-x86\WallpaperRandom.genruntimeconfig.cache

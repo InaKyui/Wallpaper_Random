@@ -1,0 +1,2 @@
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\publish\WallpaperRandom.pdb
+C:\Users\YuiSaka\source\repos\WallpaperRandom\WallpaperRandom\bin\Release\netcoreapp3.1\publish\WallpaperRandom.exe
